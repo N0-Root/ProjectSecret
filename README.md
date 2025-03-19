@@ -2,29 +2,80 @@ Burası basit bir depolama alanı değil. Eğer buraya kadar ulaşabildiysen, be
 
 Bildiğim her şeyi buraya koydum, ama bu yeterli olmayabilir. Zamanım daraldı. Eğer sen buradaysan, belki de yapabileceklerimden fazlasını başarabilirsin.
 
-👁️ Beni Takip Et
+ Dijital Gölgelerde Saklı Gerçekler
 
-Şifre burada değil, ama belki de src/ klasöründe gözden kaçan bir detay vardır.
+Gerçekler bazen en açık olanların ardına gizlenir.
 
-Anahtar her zaman bir kapının açılmasını sağlar. Ama hangi kapı?
+Bir mesaj, bir hesap, bir iz… Sana ihtiyacımız var.
+Bir şeylerin saklandığını biliyoruz. Ama kimse açıkça konuşmuyor.
 
-Bazı bilgiler göz önünde saklanır. Ama hangi açıdan baktığını değiştirirsen fark edebilirsin.
+Bir iz var:Buradaysan bu ize ulaştın demektir.
 
-Eğer buraya kadar gelebildiysen, yalnız değilsin. Sana güveniyorum.
+Ancak burada görebileceğin her şey sadece yüzeyde olanlar. Gerçeği bulmak için kazman gerekecek.
 
-⚡ İşleyiş
+🎯 İlk Görev: Sessiz Çığlıkları Duy
 
-Bir dosya buldun mu? Peki ya neden açılmıyor?
+Orada paylaşılanlar bir mesaj taşıyor. Ama doğrudan değil. Kodlanmış, gizlenmiş.
 
-Klasörlerin adlarını incele, bazen rakamlar ve harfler fazlasıyla anlamlı olabilir.
+👀 Baktığın her şeye gerçekten dikkatlice bakıyor musun?
 
-hidden_clue.png rastgele bir görsel mi? Belki de içinde bir şey saklıdır.
+"Bazı rakamlar, doğru yere yerleştirildiğinde anlam kazanır."
 
-En eski şifreleme yöntemlerinden birini hatırla, bazen en modern olanı bile şaşırtabilir.
+📌 Ne eksik? Ne fazla?
+📌 Sayılara ve harflere odaklan.
+📌 Bütünlük eksikse, tamamlanmalı.
 
-Son dosya mı? Emin misin? Belki de gerçek sondan önce bir ipucu daha vardır.
+🔍 İkinci Görev: Kırık Parçaları Birleştir
 
-🚫 Eğer başarısız olursan...
-Beni bulamazlar. Ama gerçekler kaybolursa, kimsenin onları geri getirme şansı olmayabilir. Lütfen devam et.
+Bir bağlantı var. Ama doğrudan değil.
+Bazı şeyler açıkça paylaşılmaz. Ama ipuçları, yolu gösterir.
 
-🌟 Gerçeği bulan onu kullanmalı mı, yoksa saklamalı mı? Karar senin.
+🚀 Ne eksik? Ne fazlalık?
+📌 Doğru yere bak, eksik olanı tamamla.
+📌 Çözülen rakamlar, bir adres oluşturabilir mi?
+📌 Yanlış adımı atarsan, kaybolabilirsin.
+
+"Bazı notlar uçup gitmez. Ama bulunması gerekir."
+
+🗂 Üçüncü Görev: Dijital Tozları Üfle
+
+Bağlantıyı buldun. Ama asıl mesele şimdi başlıyor.
+
+📁 Bir dosya seni bekliyor. Ama sıradan değil.
+
+Bir resim mi?
+
+Sadece bir dosya mı?
+
+Ya içinde başka bir şey varsa?
+
+🎭 Gerçeği görmek için farklı açılardan bakmalı mısın?
+
+🔑 İpucu: "Bazı dosyalar sadece göründüğü gibi değildir."
+
+"Bazen notların içeriği kadar nerede saklandığı da önemlidir."
+
+🔑 Dördüncü Görev: Kilidi Açan Anahtar
+
+Elinde şifreli bir dosya var.
+Ama nasıl açılacağını biliyor musun?
+
+🚪 Her kilidin bir anahtarı vardır. Ama bazen, anahtar gizlidir.
+📌 Anahtarı bulmak için başka bir dosyayı çözmelisin.
+📌 Gözlerinin önündeki şeyi görebilecek misin?
+📌 Şifreyi elde etmek için aracı doğru kullanmalısın.
+
+"Bazı şeyler bir yerlere gömülüdür. Ama kazıp çıkarmak gerekir."
+
+🔓 Son Görev: Kapının Arkasında Ne Var?
+
+Kapının ardında gerçekler var.
+Ama bu gerçekler herkesin görmesini istediği türden değil.
+
+📌 İlk gördüğün sayılara ve harflere geri dön.
+📌 Eksik olan her şeyi tamamla.
+📌 Eğer doğru dizersen, kapı açılacak.
+
+"Bazı sırlar, yalnızca doğru dizildiğinde anlam kazanır."
+
+💀 OYUN BAŞLADI. ŞİMDİ GERÇEKLERİ BULMA ZAMANI.
